@@ -7,7 +7,7 @@ namespace RefactorLineComp
         static void Main(string[] args)
         {
             Console.WriteLine("WelCome to the Line Comparison Program ");
-            calculate();
+            calculate(); //Calling Method
         }
     }
 }
