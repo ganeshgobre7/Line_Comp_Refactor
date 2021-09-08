@@ -2,11 +2,12 @@
 
 namespace RefactorLineComp
 {
-    class Program
+    class Program : Length
     {
         static void Main(string[] args)
         {
             Console.WriteLine("WelCome to the Line Comparison Program ");
+            calculate();
         }
     }
 }
